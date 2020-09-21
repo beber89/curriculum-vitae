@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.9)  19 SEP 2020 19:38
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.9)  21 SEP 2020 22:41
 entering extended mode
 **./mfathycv.tex
 (mfathycv.tex
@@ -646,18 +646,18 @@ Along with a frontend written in Golang compiled into webassembly.
  []
 
 
-Overfull \hbox (3.43178pt too wide) in paragraph at lines 211--213
+Overfull \hbox (3.43178pt too wide) in paragraph at lines 215--217
 []\TU/CALIBRI.TTF(0)/m/n/10 Mitigating the impact of malicious behavior via uti
 lizing multiple routes in a cooperative sensing Cognitive Radio Network,
  []
 
 [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 420.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 424.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 420.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 424.
  (mfathycv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 420.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 420.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 424.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 424.
 Package rerunfilecheck Info: File `mfathycv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 

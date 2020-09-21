@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.9)  9 SEP 2020 15:31
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.9)  21 SEP 2020 22:21
 entering extended mode
 **./mfathycv.tex
 (mfathycv.tex
@@ -633,6 +633,12 @@ ex/microtype/mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+Overfull \hbox (15.77171pt too wide) in paragraph at lines 135--136
+[]\TU/CALIBRI.TTF(0)/m/n/10 Blockchain Fabric have been implemented in Golang. 
+Along with a frontend written in Golang compiled into webassembly. 
+ []
+
+
 ("/Users/mahmoudfathy/Library/Application Support/MiKTeX/texmfs/install/tex/gen
 eric/stringenc/se-ascii-print.def"
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
@@ -640,28 +646,28 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ) [1
 
 ]
-Overfull \hbox (3.43178pt too wide) in paragraph at lines 168--170
+Overfull \hbox (3.43178pt too wide) in paragraph at lines 213--215
 []\TU/CALIBRI.TTF(0)/m/n/10 Mitigating the impact of malicious behavior via uti
 lizing multiple routes in a cooperative sensing Cognitive Radio Network,
  []
 
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 351.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 351.
+[2] [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 403.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 403.
  (mfathycv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 351.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 351.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 403.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 403.
 Package rerunfilecheck Info: File `mfathycv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  14260 strings out of 416041
  266766 string characters out of 2926345
- 614135 words of memory out of 3000000
+ 615135 words of memory out of 3000000
  31658 multiletter control sequences out of 15000+200000
  533296 words of font info for 45 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 62i,15n,107p,798b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,15n,107p,798b,624s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on mfathycv.pdf (3 pages).
+Output written on mfathycv.pdf (4 pages).
